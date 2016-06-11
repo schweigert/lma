@@ -1,4 +1,0 @@
-\select@language {brazilian}
-\contentsline {section}{\numberline {1}Recital de Poesia}{5}
-\contentsline {section}{\numberline {2}Carros no Estacionamento}{6}
-\contentsline {section}{\numberline {3}Festival de Bandas}{7}
